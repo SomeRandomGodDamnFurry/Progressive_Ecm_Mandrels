@@ -29,14 +29,6 @@ A: Hell if I know. Guess I must be a masochist.
 
 Q: Can I request a feature? 
 A: Sure. I'll probably ignore it though.
-
-Q: I found a bug!
-A: Refer to the documentation to ensure it is indeed a bug. My email is SomeRandomGodDamnFurry@proton.me 
-   Email me as to what to do to recreate the bug and what you beleive the expected behavior should be.
-   DO NOT use this email to ask for help with the code. Please find me on Detterance Dispensed chat or Element.io for that.
-
-Q: Help, I can't figure out how to use the program.
-A: Consult the docs. If you don't understand them, find someone who can explain it to you.
 */
 
 
